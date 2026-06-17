@@ -116794,5 +116794,11 @@
     "handle": "puti",
     "website": "https://puti.app",
     "description": "AI + web3 mental well-being platform for meditation and earning rewards."
+  },
+  {
+    "id": 19467,
+    "handle": "remio",
+    "website": "https://remio.ai/",
+    "description": "Local-first AI memory and knowledge base desktop app that indexes files, webpages, recordings, emails, and notes for fast personal context retrieval."
   }
 ]
