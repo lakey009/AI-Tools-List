@@ -116794,5 +116794,11 @@
     "handle": "puti",
     "website": "https://puti.app",
     "description": "AI + web3 mental well-being platform for meditation and earning rewards."
+  },
+  {
+    "id": 19467,
+    "handle": "roblox-gui-maker",
+    "website": "https://robloxguimaker.dev/",
+    "description": "Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas."
   }
 ]
