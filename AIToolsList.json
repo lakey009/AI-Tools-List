@@ -651,7 +651,7 @@
     "id": 109,
     "handle": "copernicai",
     "website": "https://copernicai.com",
-    "description": "Generative AI for creating 360° panoramas and VR experiences from text prompts."
+    "description": "Generative AI for creating 360\u00b0 panoramas and VR experiences from text prompts."
   },
   {
     "id": 110,
@@ -1525,7 +1525,7 @@
   },
   {
     "id": 255,
-    "handle": "invoice-box-发票盒子",
+    "handle": "invoice-box-\u53d1\u7968\u76d2\u5b50",
     "website": "https://www.fapiaohezi.com",
     "description": "Automated invoice extraction, categorization, and expense report generation using AI."
   },
@@ -6331,7 +6331,7 @@
   },
   {
     "id": 1056,
-    "handle": "扣子",
+    "handle": "\u6263\u5b50",
     "website": "https://www.coze.cn",
     "description": "AI agent development platform for building and deploying intelligent agents."
   },
@@ -7489,7 +7489,7 @@
   },
   {
     "id": 1249,
-    "handle": "博查ai搜索",
+    "handle": "\u535a\u67e5ai\u641c\u7d22",
     "website": "https://bochaai.com",
     "description": "AI search engine for connecting AI applications to world knowledge."
   },
@@ -9279,7 +9279,7 @@
     "id": 1547,
     "handle": "imandra-ai",
     "website": "https://imandra.ai",
-    "description": "Imandra provides a Reasoning as a Service® platform for logical reasoning in AI systems."
+    "description": "Imandra provides a Reasoning as a Service\u00ae platform for logical reasoning in AI systems."
   },
   {
     "id": 1548,
@@ -11875,7 +11875,7 @@
   },
   {
     "id": 1980,
-    "handle": "saina ",
+    "handle": "saina\u00a0",
     "website": "https://ai.hirehunch.com/interview",
     "description": "AI interviewer for faster, unbiased candidate screening."
   },
@@ -13819,7 +13819,7 @@
   },
   {
     "id": 2304,
-    "handle": "律己ai",
+    "handle": "\u5f8b\u5df1ai",
     "website": "https://lvji.tensorbounce.com",
     "description": "Intelligent contract review tool using NLP and legal knowledge graph."
   },
@@ -15783,7 +15783,7 @@
     "id": 2631,
     "handle": "echo-snap",
     "website": "https://echosnap.io",
-    "description": "Echo Snap collects voice testimonials; 阿里云 offers cloud servers."
+    "description": "Echo Snap collects voice testimonials; \u963f\u91cc\u4e91 offers cloud servers."
   },
   {
     "id": 2632,
@@ -17449,7 +17449,7 @@
   },
   {
     "id": 2909,
-    "handle": "fancy-text-generator-创意文字转换器-酷炫字体生成器",
+    "handle": "fancy-text-generator-\u521b\u610f\u6587\u5b57\u8f6c\u6362\u5668-\u9177\u70ab\u5b57\u4f53\u751f\u6210\u5668",
     "website": "https://fancytext-generator.com",
     "description": "Create stylish text with fancy fonts, emojis, and symbols for various uses."
   },
@@ -17623,9 +17623,9 @@
   },
   {
     "id": 2938,
-    "handle": "文心一言",
+    "handle": "\u6587\u5fc3\u4e00\u8a00",
     "website": "https://yiyan.baidu.com/",
-    "description": "文心一言 is an AI assistant for chatting, answering questions, and helping with work and study."
+    "description": "\u6587\u5fc3\u4e00\u8a00 is an AI assistant for chatting, answering questions, and helping with work and study."
   },
   {
     "id": 2939,
@@ -17635,7 +17635,7 @@
   },
   {
     "id": 2940,
-    "handle": "秘塔ai",
+    "handle": "\u79d8\u5854ai",
     "website": "https://metaso.cn",
     "description": "AI-powered search engine with direct results and research tools."
   },
@@ -18067,7 +18067,7 @@
   },
   {
     "id": 3012,
-    "handle": "包阅ai-免费读文档-翻译-改写",
+    "handle": "\u5305\u9605ai-\u514d\u8d39\u8bfb\u6587\u6863-\u7ffb\u8bd1-\u6539\u5199",
     "website": "https://baoyueai.com/",
     "description": "Intelligent AI reading assistant for summarization, Q&A, and translation."
   },
@@ -18223,7 +18223,7 @@
   },
   {
     "id": 3038,
-    "handle": "开搜ai问答搜索",
+    "handle": "\u5f00\u641cai\u95ee\u7b54\u641c\u7d22",
     "website": "https://kaisouai.com",
     "description": "AI search engine providing direct answers and summaries."
   },
@@ -20095,7 +20095,7 @@
   },
   {
     "id": 3350,
-    "handle": "how-about-如何",
+    "handle": "how-about-\u5982\u4f55",
     "website": "https://www.ruhe.ai",
     "description": "AI-powered I Ching interpretation for personalized advice."
   },
@@ -22963,7 +22963,7 @@
   },
   {
     "id": 3828,
-    "handle": "唤醒食物",
+    "handle": "\u5524\u9192\u98df\u7269",
     "website": "https://www.foodwake.cn",
     "description": "AI-powered food nutrition and dietary therapy platform."
   },
@@ -26343,7 +26343,7 @@
     "id": 4391,
     "handle": "salvador-dall-e-3-ui",
     "website": "https://salvadorui.com",
-    "description": "A simple UI for generating images with DALL·E 3 using your OpenAI API key."
+    "description": "A simple UI for generating images with DALL\u00b7E 3 using your OpenAI API key."
   },
   {
     "id": 4392,
@@ -26839,7 +26839,7 @@
   },
   {
     "id": 4474,
-    "handle": "金数据-ai-考试",
+    "handle": "\u91d1\u6570\u636e-ai-\u8003\u8bd5",
     "website": "https://5.jinshuju.net/",
     "description": "AI-powered tool for quick exam question generation from various learning materials."
   },
@@ -31269,7 +31269,7 @@
     "id": 5212,
     "handle": "pocket-paint-easy-gen-ai",
     "website": "https://pocketpaint.ai",
-    "description": "Pocket Paint: Create art on your phone with generative AI (DALL•E 3)."
+    "description": "Pocket Paint: Create art on your phone with generative AI (DALL\u2022E 3)."
   },
   {
     "id": 5213,
@@ -31363,7 +31363,7 @@
   },
   {
     "id": 5228,
-    "handle": "gpt中文站",
+    "handle": "gpt\u4e2d\u6587\u7ad9",
     "website": "https://chat.uniation.net",
     "description": "A comprehensive AI assistant offering diverse functionalities like dialogue, painting, and programming."
   },
@@ -31689,7 +31689,7 @@
     "id": 5282,
     "handle": "prompt-grip",
     "website": "https://www.promptgrip.com",
-    "description": "Prompt Grip is a guide for crafting prompts for DALL·E to generate compelling visuals."
+    "description": "Prompt Grip is a guide for crafting prompts for DALL\u00b7E to generate compelling visuals."
   },
   {
     "id": 5283,
@@ -32691,7 +32691,7 @@
     "id": 5449,
     "handle": "testdal",
     "website": "https://shipfa.st/",
-    "description": "Test DALL·E-3 in HD for $2 and get 2 HD images with saved prompts."
+    "description": "Test DALL\u00b7E-3 in HD for $2 and get 2 HD images with saved prompts."
   },
   {
     "id": 5450,
@@ -37135,7 +37135,7 @@
   },
   {
     "id": 6190,
-    "handle": "创一",
+    "handle": "\u521b\u4e00",
     "website": "https://www.creatifyone.com/",
     "description": "AI-powered short video creation tool for efficient content production."
   },
@@ -41583,7 +41583,7 @@
     "id": 6931,
     "handle": "devpilot",
     "website": "https://devpilot.dev",
-    "description": "AI-powered platform connecting developers and companies based on skills, not résumés."
+    "description": "AI-powered platform connecting developers and companies based on skills, not r\u00e9sum\u00e9s."
   },
   {
     "id": 6932,
@@ -42145,7 +42145,7 @@
   },
   {
     "id": 7025,
-    "handle": " exie",
+    "handle": "\u00a0exie",
     "website": "https://exie.app",
     "description": "Exie automates customer communication and support on Instagram Direct using AI."
   },
@@ -46459,7 +46459,7 @@
   },
   {
     "id": 7744,
-    "handle": "旅行脑袋",
+    "handle": "\u65c5\u884c\u8111\u888b",
     "website": "https://www.tripbrain.cn",
     "description": "AI travel itinerary planning assistant."
   },
@@ -47731,7 +47731,7 @@
   },
   {
     "id": 7956,
-    "handle": "ai梦工厂-中文版无限制的ai女友",
+    "handle": "ai\u68a6\u5de5\u5382-\u4e2d\u6587\u7248\u65e0\u9650\u5236\u7684ai\u5973\u53cb",
     "website": "http://love.boturgame.fun",
     "description": "A platform for creating and sharing custom games and content."
   },
@@ -48825,7 +48825,7 @@
     "id": 8138,
     "handle": "ai-suite-azen",
     "website": "https://www.azen.app",
-    "description": "A free platform integrating AI tools like ChatGPT, DALL·E 2, and ElevenLabs."
+    "description": "A free platform integrating AI tools like ChatGPT, DALL\u00b7E 2, and ElevenLabs."
   },
   {
     "id": 8139,
@@ -49695,7 +49695,7 @@
     "id": 8283,
     "handle": "lisa-ai",
     "website": "https://lisarecruiter.com",
-    "description": "AI assistant for recruiters to review, rank, and summarize resumés efficiently."
+    "description": "AI assistant for recruiters to review, rank, and summarize resum\u00e9s efficiently."
   },
   {
     "id": 8284,
@@ -49905,7 +49905,7 @@
     "id": 8318,
     "handle": "ask-kl-m",
     "website": "https://www.askklem.com",
-    "description": "Klëm is an AI wardrobe stylist providing real-time style recommendations."
+    "description": "Kl\u00ebm is an AI wardrobe stylist providing real-time style recommendations."
   },
   {
     "id": 8319,
@@ -50853,7 +50853,7 @@
     "id": 8476,
     "handle": "alwin",
     "website": "https://www.algae-app.com",
-    "description": "Algae democratizes real estate investment with blockchain, starting from €10."
+    "description": "Algae democratizes real estate investment with blockchain, starting from \u20ac10."
   },
   {
     "id": 8477,
@@ -52999,7 +52999,7 @@
   },
   {
     "id": 8834,
-    "handle": "哇喔相机-wawo",
+    "handle": "\u54c7\u5594\u76f8\u673a-wawo",
     "website": "https://drawai.aipedias.com",
     "description": "AI-powered photo editing and ID photo generation tool."
   },
@@ -53457,7 +53457,7 @@
     "id": 8910,
     "handle": "pacdora-ai-background-generator",
     "website": "https://www.pacdora.com/tools/ai-background-generator",
-    "description": "Effortlessly Create Stunning Product Backgrounds with Pacdora AI Background Generator—Just One Click Away!🎁20% discount code: S20🎁"
+    "description": "Effortlessly Create Stunning Product Backgrounds with Pacdora AI Background Generator\u2014Just One Click Away!\ud83c\udf8120% discount code: S20\ud83c\udf81"
   },
   {
     "id": 8911,
@@ -58549,7 +58549,7 @@
   },
   {
     "id": 9759,
-    "handle": "deeptranslate-全页-双语页面翻译器",
+    "handle": "deeptranslate-\u5168\u9875-\u53cc\u8bed\u9875\u9762\u7ffb\u8bd1\u5668",
     "website": "https://deeptranslate.ai",
     "description": "Free AI translator for bilingual webpage generation with 142 languages support."
   },
@@ -61791,7 +61791,7 @@
     "id": 10299,
     "handle": "peridot-ar-tamagotchi",
     "website": "https://playperidot.com",
-    "description": "Online store for Pokémon GO and Niantic merchandise, plus Peridot game information."
+    "description": "Online store for Pok\u00e9mon GO and Niantic merchandise, plus Peridot game information."
   },
   {
     "id": 10300,
@@ -61969,7 +61969,7 @@
   },
   {
     "id": 10329,
-    "handle": "次元通讯",
+    "handle": "\u6b21\u5143\u901a\u8baf",
     "website": "https://dcall.chat",
     "description": "A platform to create and share AI characters and chat with them."
   },
@@ -62665,7 +62665,7 @@
   },
   {
     "id": 10445,
-    "handle": "智能可视化基础组件库-vmind",
+    "handle": "\u667a\u80fd\u53ef\u89c6\u5316\u57fa\u7840\u7ec4\u4ef6\u5e93-vmind",
     "website": "https://www.visactor.io/vmind",
     "description": "Intelligent visualization component based on AI and algorithms."
   },
@@ -66015,7 +66015,7 @@
     "id": 11003,
     "handle": "repromptify",
     "website": "https://repromptify.com",
-    "description": "Repromptify automates AI prompt creation for ChatGPT, DALLE•2, and Midjourney using GPT-4."
+    "description": "Repromptify automates AI prompt creation for ChatGPT, DALLE\u20222, and Midjourney using GPT-4."
   },
   {
     "id": 11004,
@@ -68931,7 +68931,7 @@
     "id": 11489,
     "handle": "validoe",
     "website": "http://validoe.com",
-    "description": "Validoe authenticates Pokémon cards using AI and expert verification for collectors."
+    "description": "Validoe authenticates Pok\u00e9mon cards using AI and expert verification for collectors."
   },
   {
     "id": 11490,
@@ -69471,7 +69471,7 @@
     "id": 11579,
     "handle": "myspeakingscore-com",
     "website": "https://myspeakingscore.com",
-    "description": "AI-powered TOEFL Speaking prep with SpeechRater™ for accurate feedback and score prediction."
+    "description": "AI-powered TOEFL Speaking prep with SpeechRater\u2122 for accurate feedback and score prediction."
   },
   {
     "id": 11580,
@@ -71995,7 +71995,7 @@
   },
   {
     "id": 12000,
-    "handle": "llama中文社区",
+    "handle": "llama\u4e2d\u6587\u793e\u533a",
     "website": "https://llama.family",
     "description": "A community and platform for Llama models, technology, and enthusiasts."
   },
@@ -72489,7 +72489,7 @@
     "id": 12082,
     "handle": "hunyuan-t1",
     "website": "https://llm.hunyuan.tencent.com",
-    "description": "腾讯云 TI-ONE 训练平台接入开源 MoE 模型 Hunyuan-Large，参数规模大，效果好。"
+    "description": "\u817e\u8baf\u4e91 TI-ONE \u8bad\u7ec3\u5e73\u53f0\u63a5\u5165\u5f00\u6e90 MoE \u6a21\u578b Hunyuan-Large\uff0c\u53c2\u6570\u89c4\u6a21\u5927\uff0c\u6548\u679c\u597d\u3002"
   },
   {
     "id": 12083,
@@ -73323,7 +73323,7 @@
     "id": 12221,
     "handle": "duosoft",
     "website": "https://duosoft.co",
-    "description": "DuoSoft Yazılım provides custom software, digital transformation, and consulting services for businesses."
+    "description": "DuoSoft Yaz\u0131l\u0131m provides custom software, digital transformation, and consulting services for businesses."
   },
   {
     "id": 12222,
@@ -73455,7 +73455,7 @@
     "id": 12243,
     "handle": "take-care",
     "website": "https://www.takecare.uk",
-    "description": "TakeCare offers instant health advice from pharmacists via online consultation for 5£."
+    "description": "TakeCare offers instant health advice from pharmacists via online consultation for 5\u00a3."
   },
   {
     "id": 12244,
@@ -73819,7 +73819,7 @@
   },
   {
     "id": 12304,
-    "handle": "多种草ai",
+    "handle": "\u591a\u79cd\u8349ai",
     "website": "https://duozhongcao.com",
     "description": "Free online Xiaohongshu AI creation tool for bloggers."
   },
@@ -76743,7 +76743,7 @@
     "id": 12791,
     "handle": "toolsmart-free-humanize-ai",
     "website": "https://www.toolsmart.ai/feature-free-humanize-ai/",
-    "description": "Free Humanize AI is a free tool that transforms stiff AI text into fluent, natural human language. With 8 unique rewrite modes, adjustable polish levels, and no sign-up or ads, it's perfect for making AI content sound truly human—clear, smooth, and real."
+    "description": "Free Humanize AI is a free tool that transforms stiff AI text into fluent, natural human language. With 8 unique rewrite modes, adjustable polish levels, and no sign-up or ads, it's perfect for making AI content sound truly human\u2014clear, smooth, and real."
   },
   {
     "id": 12792,
@@ -77065,7 +77065,7 @@
   },
   {
     "id": 12845,
-    "handle": "aiwritingpal-智写助手",
+    "handle": "aiwritingpal-\u667a\u5199\u52a9\u624b",
     "website": "https://aiwritingpal.com",
     "description": "AI-powered writing assistant, content generator, and text-to-speech tool."
   },
@@ -83145,7 +83145,7 @@
     "id": 13858,
     "handle": "ai-waitlist-generative-brand-guidelines",
     "website": "https://www.corebook.ai",
-    "description": "Corebook°Ai is an AI research lab for generative brand guidelines and assets."
+    "description": "Corebook\u00b0Ai is an AI research lab for generative brand guidelines and assets."
   },
   {
     "id": 13859,
@@ -83683,7 +83683,7 @@
   },
   {
     "id": 13948,
-    "handle": "比格aippt",
+    "handle": "\u6bd4\u683caippt",
     "website": "https://bigesj.com/ai-ppt/",
     "description": "AI-powered PPT generator with templates and intelligent layout features."
   },
@@ -83869,7 +83869,7 @@
   },
   {
     "id": 13979,
-    "handle": "pi智能演示文档",
+    "handle": "pi\u667a\u80fd\u6f14\u793a\u6587\u6863",
     "website": "https://pi.deepvinci.tech",
     "description": "AI-powered PPT generation tool for creating presentations quickly and efficiently."
   },
@@ -89313,7 +89313,7 @@
     "id": 14886,
     "handle": "addsubtitle",
     "website": "https://addsubtitle.ai",
-    "description": "Subtitles, voiceover, and translation—all in one tool to speed up your video workflow."
+    "description": "Subtitles, voiceover, and translation\u2014all in one tool to speed up your video workflow."
   },
   {
     "id": 14887,
@@ -91045,7 +91045,7 @@
   },
   {
     "id": 15175,
-    "handle": "ai论文初稿写作-学境思源",
+    "handle": "ai\u8bba\u6587\u521d\u7a3f\u5199\u4f5c-\u5b66\u5883\u601d\u6e90",
     "website": "https://academicideas.cn/",
     "description": "AI-powered platform for academic writing and paper generation."
   },
@@ -91069,7 +91069,7 @@
   },
   {
     "id": 15179,
-    "handle": "笔尖ai-十分钟生成毕业论文",
+    "handle": "\u7b14\u5c16ai-\u5341\u5206\u949f\u751f\u6210\u6bd5\u4e1a\u8bba\u6587",
     "website": "https://bklw.cheerup.vip/pc",
     "description": "AI-powered tool for thesis writing, plagiarism checking, and content optimization."
   },
@@ -92895,7 +92895,7 @@
     "id": 15483,
     "handle": "fangrow",
     "website": "https://fangrow.io",
-    "description": "AI-powered content automation for 🌶 creators to find trends, generate content, and track profiles."
+    "description": "AI-powered content automation for \ud83c\udf36 creators to find trends, generate content, and track profiles."
   },
   {
     "id": 15484,
@@ -99079,7 +99079,7 @@
   },
   {
     "id": 16514,
-    "handle": "未来简历",
+    "handle": "\u672a\u6765\u7b80\u5386",
     "website": "https://futurecv.cn",
     "description": "AI resume builder with smart analysis and diverse templates."
   },
@@ -99271,7 +99271,7 @@
   },
   {
     "id": 16546,
-    "handle": "简历智能分析",
+    "handle": "\u7b80\u5386\u667a\u80fd\u5206\u6790",
     "website": "https://resume.yellowgoose.com.cn",
     "description": "Resume analysis tool for interview preparation and resume optimization."
   },
@@ -99843,7 +99843,7 @@
     "id": 16641,
     "handle": "oomfmap-com",
     "website": "https://oomfmap.com",
-    "description": "Enter your 𝕏 username to be placed on a map and see AI responses."
+    "description": "Enter your \ud835\udd4f username to be placed on a map and see AI responses."
   },
   {
     "id": 16642,
@@ -104415,7 +104415,7 @@
     "id": 17403,
     "handle": "lami-ai-free-ai-music-generator-from-text",
     "website": "https://lami.ai",
-    "description": "Compose original, royalty-free songs in minutes — and explore a suite of powerful AI music tools."
+    "description": "Compose original, royalty-free songs in minutes \u2014 and explore a suite of powerful AI music tools."
   },
   {
     "id": 17404,
@@ -106353,7 +106353,7 @@
     "id": 17726,
     "handle": "rtest-ai",
     "website": "https://rtest.ai",
-    "description": "AI-powered diagnostic test platform for SAT®, ACT®, PSAT/NMSQT®, and AP® exams."
+    "description": "AI-powered diagnostic test platform for SAT\u00ae, ACT\u00ae, PSAT/NMSQT\u00ae, and AP\u00ae exams."
   },
   {
     "id": 17727,
@@ -106903,7 +106903,7 @@
   },
   {
     "id": 17818,
-    "handle": "scrollengine ",
+    "handle": "scrollengine\u00a0",
     "website": "https://scrollengine.com",
     "description": "AI logistics platform for e-commerce, streamlining delivery and pickup operations for Shopify merchants."
   },
@@ -108363,7 +108363,7 @@
     "id": 18061,
     "handle": "geniusreview",
     "website": "https://geniusreview.xyz",
-    "description": "AI-powered tool for generating tailored 360° performance reviews."
+    "description": "AI-powered tool for generating tailored 360\u00b0 performance reviews."
   },
   {
     "id": 18062,
@@ -111943,7 +111943,7 @@
   },
   {
     "id": 18658,
-    "handle": "tiktok-voice-tiktok音声",
+    "handle": "tiktok-voice-tiktok\u97f3\u58f0",
     "website": "https://tiktokvoice.net",
     "description": "AI-powered text-to-speech tool for generating TikTok voices in multiple languages."
   },
@@ -112767,7 +112767,7 @@
     "id": 18795,
     "handle": "tryveo3-ai-free-access-to-google-veo-3-for-ai-video-generation",
     "website": "https://tryveo3.ai",
-    "description": "Turn ideas into stunning 4K videos with Veo 3 — complete with AI-generated audio and cinematic flair."
+    "description": "Turn ideas into stunning 4K videos with Veo 3 \u2014 complete with AI-generated audio and cinematic flair."
   },
   {
     "id": 18796,
@@ -113907,7 +113907,7 @@
     "id": 18985,
     "handle": "coverlettergpt",
     "website": "https://CoverLetterGPT.xyz",
-    "description": "CoverLetterGPT generates unique cover letters using CV/résumé and job description inputs."
+    "description": "CoverLetterGPT generates unique cover letters using CV/r\u00e9sum\u00e9 and job description inputs."
   },
   {
     "id": 18986,
@@ -115803,7 +115803,7 @@
     "id": 19301,
     "handle": "speqy",
     "website": "https://speqy.com",
-    "description": "Platform for educational research and data related to the Chocó region."
+    "description": "Platform for educational research and data related to the Choc\u00f3 region."
   },
   {
     "id": 19302,
@@ -116794,5 +116794,11 @@
     "handle": "puti",
     "website": "https://puti.app",
     "description": "AI + web3 mental well-being platform for meditation and earning rewards."
+  },
+  {
+    "id": 19467,
+    "handle": "ideahunter",
+    "website": "https://ideahunter.today",
+    "description": "AI research tool for finding demand-backed app and micro-SaaS ideas."
   }
 ]
