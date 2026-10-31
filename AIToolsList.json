@@ -116794,5 +116794,11 @@
     "handle": "puti",
     "website": "https://puti.app",
     "description": "AI + web3 mental well-being platform for meditation and earning rewards."
+  },
+  {
+    "id": 19467,
+    "handle": "agent-qa",
+    "website": "https://vostride.com",
+    "description": "Tests web and mobile apps through CLI/MCP with persistent memidex memory, validated self-improvement and reviewable run evidence."
   }
 ]
